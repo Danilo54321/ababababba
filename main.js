@@ -32,4 +32,3 @@ let tempoAtual = new Date();
 contadores[0].textContent = tempoObjetivo1 - tempoAtual;
 //Código omitido
 }
-}
