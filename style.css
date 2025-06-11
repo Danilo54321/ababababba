@@ -70,9 +70,10 @@ border-bottom: 4px solid var(--verde);
     border-bottom: 4px solid var(--verde);
 }
 
-.aba-conteudo{
-    display: none;
+.aba-conteudo.ativo{
+    display: block;
 }
+
 
 .aba-conteudo-titulo-principal{
     font-size: 28px;
